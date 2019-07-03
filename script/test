@@ -1,4 +1,4 @@
 #!/bin/sh
-./'node-app'/node_modules/.bin/mocha ./test/test.js
+./'node-app'/node_modules/.bin/mocha ./'node-app'/test/test.js
 
 
