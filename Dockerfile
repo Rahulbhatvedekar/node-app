@@ -1,7 +1,7 @@
 # Dockerfile to build a notification service container node.js image.
 # Based upon the node image.
 FROM node:10
-
+#test comment
 # Create app directory
 WORKDIR /usr/src/app
 
